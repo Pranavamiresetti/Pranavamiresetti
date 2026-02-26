@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Pranavamiresetti
-- 👀 I’m interested in web development
-- 🌱 I’m currently persuading my B.tech in CSE 
-  
+M.Tech Data Analytics | Python | PEGA BPM | Workflow Automation | Cloud (AWS)
 
 <!---
 Pranavamiresetti/Pranavamiresetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
